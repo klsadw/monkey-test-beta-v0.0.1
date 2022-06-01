@@ -157,6 +157,11 @@ div.link_r2{
 }
 .big_title{
     font-size:27px;
+    padding-bottom: 10px;
+    border: 1px solid #e6e6e6;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
 }
 .big_title_line{
     color:#e6e6e6;
